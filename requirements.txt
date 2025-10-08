@@ -10,4 +10,5 @@ Flask
 Flask-Cors
 boto3
 python-dotenv
+Pillow==9.5.0
 -e .
